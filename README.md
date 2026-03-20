@@ -1,4 +1,4 @@
-# Ricardo! 🇧🇷 🇺🇸
+# Ricardo 🇧🇷 🇺🇸
 
 **Senior Data & Analytics Professional** bridging the gap between Industrial Engineering and scalable Software solutions. I specialize in building resilient data pipelines and AI-driven automation that transform complex operational bottlenecks into measurable financial growth.
 

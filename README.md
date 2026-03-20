@@ -1,6 +1,6 @@
-# Hi, I'm Ricardo! 🇧🇷 🇺🇸
+# Ricardo! 🇧🇷 🇺🇸
 
-I am a **Senior Data & Analytics Professional** with a background in Industrial Engineering and a passion for building resilient data-driven systems. As a certified **Lean Six Sigma Black Belt**, I focus on reducing process variability and delivering measurable financial impact through code.
+**Senior Data & Analytics Professional** with a background in Industrial Engineering and a passion for building resilient data-driven systems. As a certified **Lean Six Sigma Black Belt**, I focus on reducing process variability and delivering measurable financial impact through code.
 
 ### Focus: AI Engineering & Scalable Data Pipelines
 I am currently bridging the gap between industrial efficiency and modern software engineering, specializing in **Python-based automation** and **AI-agentic workflows**.

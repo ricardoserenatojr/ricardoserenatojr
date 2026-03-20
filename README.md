@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ricardo! 🇧🇷 🇺🇸
 
-<!--
-**ricardoserenatojr/ricardoserenatojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Senior Data & Analytics Professional** with a background in Industrial Engineering and a passion for building resilient data-driven systems. As a certified **Lean Six Sigma Black Belt**, I focus on reducing process variability and delivering measurable financial impact through code.
 
-Here are some ideas to get you started:
+### Focus: AI Engineering & Scalable Data Pipelines
+I am currently bridging the gap between industrial efficiency and modern software engineering, specializing in **Python-based automation** and **AI-agentic workflows**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 High-Impact Highlights
+* **Operational Excellence:** Led data automation projects resulting in **R$ 1.5M/month in savings** by identifying and analysing process bottlenecks.
+* **Systems Integration:** Expert in implementing ERP/WMS systems with real-time data collection and sensor integration.
+* **International Experience:** Academic background at the **University of Idaho & Washington State University**, with professional experience in the US industry.
+
+### 🛠️ Tech Stack
+* **Languages:** Python (3.13), SQL (SQL Server, SQLite).
+* **Data & AI:** Pandas, NumPy, Scikit-learn, LLMs (Prompt Engineering, RAG), Power BI.
+* **Tools:** VS Code, Cursor, Git/GitHub, Streamlit Cloud.
+
+### 📂 Featured Project
+**[OEE Dashboard & Analytics](https://oee-dashboard-s4qt4tsczhlwshysv779qe.streamlit.app/)**
+A real-time production monitoring tool built with Python and Streamlit to track Overall Equipment Effectiveness.
+
+---
+
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/ricardoserenatojr/)

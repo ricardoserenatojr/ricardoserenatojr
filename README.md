@@ -1,6 +1,6 @@
 # Ricardo! 🇧🇷 🇺🇸
 
-**Senior Data & Analytics Professional** with a background in Industrial Engineering and a passion for building resilient data-driven systems. As a certified **Lean Six Sigma Black Belt**, I focus on reducing process variability and delivering measurable financial impact through code.
+**Senior Data & Analytics Professional** bridging the gap between Industrial Engineering and scalable Software solutions. I specialize in building resilient data pipelines and AI-driven automation that transform complex operational bottlenecks into measurable financial growth.
 
 ### Focus: AI Engineering & Scalable Data Pipelines
 I am currently bridging the gap between industrial efficiency and modern software engineering, specializing in **Python-based automation** and **AI-agentic workflows**.
@@ -8,9 +8,9 @@ I am currently bridging the gap between industrial efficiency and modern softwar
 ---
 
 ### 🚀 High-Impact Highlights
-* **Operational Excellence:** Led data automation projects resulting in **R$ 1.5M/month in savings** by identifying and analysing process bottlenecks.
+* **Operational Excellence:** Led data automation projects resulting in **R$ 1.5M/month in savings** by identifying and analyzing process bottlenecks.
 * **Systems Integration:** Expert in implementing ERP/WMS systems with real-time data collection and sensor integration.
-* **International Experience:** Academic background at the **University of Idaho & Washington State University**, with professional experience in the US industry.
+* **International Experience:** Academic background at the **University of Idaho & Washington State University**, with professional experience in the US industry in Alaska.
 
 ### 🛠️ Tech Stack
 * **Languages:** Python (3.13), SQL (SQL Server, SQLite).

@@ -2,9 +2,6 @@
 
 **Senior Data & Analytics Professional** bridging the gap between Industrial Engineering and scalable Software solutions. I specialize in building resilient data pipelines and AI-driven automation that transform complex operational bottlenecks into measurable financial growth.
 
-### Focus: AI Engineering & Scalable Data Pipelines
-I am currently bridging the gap between industrial efficiency and modern software engineering, specializing in **Python-based automation** and **AI-agentic workflows**.
-
 ---
 
 ### 🚀 High-Impact Highlights
